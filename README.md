@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @tanyaleepr
-- 👀 I’m interested in Comparative Asian and Latin American Governments, PoliSci, International Affairs, Coding, et...
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on Coding
-- 📫 How to reach me follow my instagram: @tanyaleepr
-
-<!---
-tanyaleepr/tanyaleepr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="center">Hi, I'm Tanya Gonzalez  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+<h2 align="center"> <img src="https://user-images.githubusercontent.com/92898110/147786150-5655ef4f-49f1-4c4c-b2bc-e8009398913c.gif"> </h2>
