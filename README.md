@@ -6,13 +6,46 @@
 I am Tanya Gonzalez, currently a student of Software Development at the Vanderbilt, and Chinese Philosophy at Harvard. I love to learn different topics and aspects of life, that is why I keep pushing myself into developing technological skills to empower minorities in my field. As for my background in academia, I have a Bachelor of Science in Criminal Justice and a Masters of Arts in International Affairs. My goal is to work in different fields to empower society in developing their own skills in life. 
 
 ⚡ Fun fact: I enjoy reading, learning, and talking about different political theories. I love to learn from all ethnicities, and I would love to move to any country in Asia.
+
 💬 Ask me anything, I will be more than happy to connect :D
 
+<h2 align="center"> Languages and Tools: </h2>
 
 
-📫Connect with me:
+
+<p align="center">
+  
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/git/git-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+ 
+</p>
 
 
-[<img src="https://user-images.githubusercontent.com/92898110/147788001-33fc8f61-110c-4ff5-bc69-c14752d6c7e0.png" height="48" width="48">](https://www.linkedin.com/in/tanyagonzalez/) 
-[<img src="https://user-images.githubusercontent.com/92898110/147788002-e1ae18ba-3af7-49f7-a232-338229b16447.png" height="48" width="48">](https://www.youtube.com/channel/UCAyAfL3uirpE1cafzccSlGw) 
-[<img src="https://user-images.githubusercontent.com/92898110/147788003-9b2041e3-a09f-490f-b630-92576643bf08.png" height="48" width="48">](https://www.instagram.com/tanyagonzalezpr/) 
+
+<p align="center">
+<a target="_blank" href="https://www.linkedin.com/in/tanyagonzalez">
+<img src="https://img.shields.io/badge/-tanyagonzalez-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyagonzalez" alt="Linkedin Badge">
+</a>
+<a target="_blank" href="mailto:tanyaleepr@gmail.com">
+<img src="https://img.shields.io/badge/-gmail-blue?&style=for-the-badge&logo=Gmail&logoColor=white&link=maito:tanyaleepr@gmail.com" alt="Email Badge">
+</a>
+<a target="_blank" href="https://www.instagram.com/tanyagonzalezpr/">
+<img src="https://img.shields.io/badge/-tanyagonzalezpr_-blue?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/tanyagonzalezpr/" alt="Instagram Badge">
+</a>
+
+</p>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tanyaleepr/count.svg" />
+</p>
+
+
+<table>
+    <tr>
+        <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyaleepr&layout=compact&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515" /></td>
+        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/?username=tanyaleepr&show_icons=true&title_color=fff&icon_color=fff&text_color=9f9f9f&bg_color=151515"/></td>
+    </tr>   
+</table>
