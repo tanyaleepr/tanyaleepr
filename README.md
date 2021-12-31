@@ -3,7 +3,7 @@
 
 <h2> About me </h2>
 
-I am Tanya Gonzalez, currently a student of Software Development at the Vanderbilt, and Chinese Philosophy at Harvard. I love to learn different topics and aspects of life, that is why I keep pushing myself into developing technological skills to empower minorities in my field. As for my background in academia, I have a Bachelor of Science in Criminal Justice and a Masters of Arts in International Affairs. My goal is to work in different fields to empower society in developing their own skills in life. 
+Hello! I am Tanya Gonzalez (李佳佳). I am currently a student of Software Development at Vanderbilt, and Chinese Philosophy student at Harvard. I love to learn different topics and aspects of life, that is why I keep pushing myself into developing technological skills to empower minorities in my field. As for my background in academia, I have a Bachelor of Science in Criminal Justice and a Masters of Arts in International Affairs. My goal is to work in different fields to empower society in developing their own skills in life. 
 
 ⚡ Fun fact: I enjoy reading, learning, and talking about different political theories. I love to learn from all ethnicities, and I would love to move to any country in Asia.
 
