@@ -1,5 +1,5 @@
 <h2 align="center"> Welcome to my GitHub! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
-<h2 align="center"> <img src="https://user-images.githubusercontent.com/92898110/147799375-e2c87ab9-2040-44f1-877f-0575dbf58cd9.gif"> </h2>
+<h2 align="center"> <img src="https://user-images.githubusercontent.com/92898110/147799747-3914b044-3175-46c6-aa49-8df4e7b6161c.gif"> </h2>
 
 <h2> About me </h2>
 
