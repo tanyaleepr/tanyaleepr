@@ -19,6 +19,12 @@ Hello! I am Tanya Gonzalez (李佳佳), a Bilingual Software Engineer passionate
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/c5378d6c2510ffa0b3e4475af95618a8048d6cf1/icons/html5/html5-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img width="45px" src="https://user-images.githubusercontent.com/92898110/165152353-7d557c36-7c91-4579-a442-82bba105977e.png">
+  <img width="45px" src="https://user-images.githubusercontent.com/92898110/165152492-792775d1-bcdd-486e-a466-69487f3cbd5d.png">
+  <img width="45px" src="https://user-images.githubusercontent.com/92898110/165153366-b45d2b68-4996-4378-8e46-40bd5b3811e6.png">
+  <img width="45px" src="https://user-images.githubusercontent.com/92898110/165152517-9770b362-3272-4051-815d-051caff216a7.png">
+  <img width="45px" src="https://user-images.githubusercontent.com/92898110/165152996-88bf4cbd-6f9b-4a89-88cc-f4da812768a9.png">
+
  
 </p>
 
