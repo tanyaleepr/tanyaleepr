@@ -3,7 +3,34 @@
 
 <h2> About me </h2>
 
-Hello! I am Tanya Gonzalez (李佳佳), a Bilingual Software Engineer passionate about Full Stack Development and promoting safety through the knowledge and software development best practices. 
+Bilingual and Multitalented Professional in Software and Cloud Engineering with a passion for community involvement, technology, and self-care. Interested in promoting education through the knowledge of various cultures, emerging technology, and software best practices. 
+
+👉 TWO Full Stack boot camps alumni: Vanderbilt University and 100Devs
+
+👉 Diplomas: Masters of International Affairs, MIA, Bachelor of Science in Homeland Security, BS, Associate in Business Administration, ABA
+
+👉Certifications: 
+AWS Cloud Practitioner (August 2022)
+Microsoft Azure AZ-900 (September 2022)
+
+👉 Favorite Programming Languages:
+JavaScript, TypeScript, and Python
+
+👉 Favorite Frameworks and Libraries:
+React, Node, Tailwind CSS, SASS
+
+👉 Favorite Databases: 
+MySQL, MongoDB, and Access
+
+👉 Favorite Cloud Services: 
+AWS and Azure 
+
+👉 Project Management tools:
+Jira - Confluence, Tempo, and BitBucket pipelines
+
+👉 Additional skills: Digital Marketing, Social Media Management, Video and Podcast Producer, and Project Management.
+
+👉 Portfolio: https://www.tanyalee.dev
 
 ⚡ Fun fact: I enjoy reading, learning, and talking about political theories. 
 
