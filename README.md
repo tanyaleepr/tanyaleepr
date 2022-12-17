@@ -10,11 +10,11 @@ Bilingual and Multitalented Professional in Software and Cloud Engineering with 
 👉 Diplomas: Masters of International Affairs, MIA, Bachelor of Science in Homeland Security, BS, Associate in Business Administration, ABA
 
 👉Certifications: 
-AWS Cloud Practitioner (August 2022)
-Microsoft Azure AZ-900 (September 2022)
+AWS Cloud Practitioner (December 2022)
+Microsoft Azure AZ-900 (May 2023)
 
 👉 Favorite Programming Languages:
-JavaScript, TypeScript, and Python
+TypeScript and Python
 
 👉 Favorite Frameworks and Libraries:
 React, Node, Tailwind CSS, SASS
