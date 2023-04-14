@@ -3,21 +3,22 @@
 
 <h2> About me </h2>
 
-Bilingual and Multitalented Professional in Software and Cloud Engineering with a passion for community involvement, technology, and self-care. Interested in promoting education through the knowledge of various cultures, emerging technology, and software best practices. 
+Bilingual and Multitalented Professional with a passion for community involvement, technology, and self-care. Interested in promoting education through the knowledge of various cultures, emerging technology, and cybersecurity best practices. 
 
 👉 TWO Full Stack boot camps alumni: Vanderbilt University and 100Devs
 
-👉 Diplomas: Masters of International Affairs, MIA, Bachelor of Science in Homeland Security, BS, Associate in Business Administration, ABA
+👉 Diplomas: Masters of International Affairs, MIA, Bachelor of Science in Homeland Security, BS, Bachelor of Cybersecurity and Information Assurance, BCIA, Associate in Business Administration, ABA
 
 👉Certifications: 
-AWS Cloud Practitioner (December 2022)
-Microsoft Azure AZ-900 (May 2023)
+AWS Cloud Practitioner 
+Microsoft Azure AZ-900 
+CompTIA A+
 
 👉 Favorite Programming Languages:
 TypeScript and Python
 
 👉 Favorite Frameworks and Libraries:
-React, Node, Tailwind CSS, SASS
+React, Node, and SASS
 
 👉 Favorite Databases: 
 MySQL, MongoDB, and Access
@@ -61,7 +62,7 @@ Jira - Confluence, Tempo, and BitBucket pipelines
 <a target="_blank" href="https://www.linkedin.com/in/tanyagonzalez">
 <img src="https://img.shields.io/badge/-tanyagonzalez-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyagonzalez" alt="Linkedin Badge">
 </a>
-<a target="_blank" href="mailto:tanyaleepr@gmail.com">
+<a target="_blank" href="mailto:tanyaleedev@gmail.com">
 <img src="https://img.shields.io/badge/-gmail-blue?&style=for-the-badge&logo=Gmail&logoColor=white&link=maito:tanyaleepr@gmail.com" alt="Email Badge">
 </a>
 <a target="_blank" href="https://www.instagram.com/tanyagonzalezpr/">
