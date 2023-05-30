@@ -5,31 +5,15 @@
 
 Bilingual and Multitalented Professional with a passion for community involvement, technology, and self-care. Interested in promoting education through the knowledge of various cultures, emerging technology, and cybersecurity best practices. 
 
-👉 TWO Full Stack boot camps alumni: Vanderbilt University and 100Devs
+👉 Two Full Stack boot camps alumni: Vanderbilt University and 100Devs
 
 👉 Diplomas: Masters of International Affairs, MIA, Bachelor of Science in Homeland Security, BS, Bachelor of Cybersecurity and Information Assurance, BCIA, Associate in Business Administration, ABA
 
 👉Certifications: 
-AWS Cloud Practitioner 
-Microsoft Azure AZ-900 
-CompTIA A+
-
-👉 Favorite Programming Languages:
-TypeScript and Python
-
-👉 Favorite Frameworks and Libraries:
-React, Node, and SASS
-
-👉 Favorite Databases: 
-MySQL, MongoDB, and Access
-
-👉 Favorite Cloud Services: 
-AWS and Azure 
-
-👉 Project Management tools:
-Jira - Confluence, Tempo, and BitBucket pipelines
-
-👉 Additional skills: Digital Marketing, Social Media Management, Video and Podcast Producer, and Project Management.
+AWS Cloud Practitioner, 
+Microsoft Azure AZ-900,
+CompTIA A+,
+CompTIA Network+
 
 👉 Portfolio: https://www.tanyalee.dev
 
