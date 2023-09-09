@@ -61,9 +61,4 @@ CompTIA Network+
 </p>
 
 
-<table>
-    <tr>
-        <td><img width="463px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanyaleepr&layout=compact&title_color=fff&icon_color=fff&text_color=000000&bg_color=38b3fa" /></td>
-        <td><img width="470px" align="left" src="https://github-readme-stats.vercel.app/api/?username=tanyaleepr&show_icons=true&title_color=fff&icon_color=fff&text_color=000000&bg_color=38b3fa"/></td>
-    </tr>   
-</table>
+
