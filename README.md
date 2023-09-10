@@ -1,25 +1,42 @@
 <h2 align="center"> Welcome to my GitHub! <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
-<h2 align="center"> <img src="https://user-images.githubusercontent.com/92898110/147799747-3914b044-3175-46c6-aa49-8df4e7b6161c.gif"> </h2>
+
 
 <h2> About me </h2>
 
-Bilingual and Multitalented Professional with a passion for community involvement, technology, and self-care. Interested in promoting education through the knowledge of various cultures, emerging technology, and cybersecurity best practices. 
+As a bilingual and versatile professional, I'm deeply passionate about community engagement, technology, and personal well-being. My focus lies in advancing education by harnessing the richness of diverse cultures, leveraging cutting-edge technology, and championing cybersecurity excellence.
 
-👉 Two Full Stack boot camps alumni: Vanderbilt University and 100Devs
+📌 Technical proficiencies: 
+● Python 
+● Linux
+● JIRA
+● Confluence
+● SQL
+● Data Storytelling
+● Data Visualization
+● NIST Frameworks
+● AWS
+● Azure
+● Bitbucket
+● Access
+● Filmora 
+● Microsoft Office
 
-👉 Diplomas: Masters of International Affairs, MIA, Bachelor of Science in Homeland Security, BS, Bachelor of Cybersecurity and Information Assurance, BCIA, Associate in Business Administration, ABA
+📌 Diplomas: 
+● Masters of International Affairs, MIA
+● Bachelor of Cybersecurity and Information Assurance, BS (in progress)
+● Bachelor of Science in Criminal Justice, BS
+● Associate in Business Administration, ABA
 
-👉Certifications: 
-AWS Cloud Practitioner, 
-Microsoft Azure AZ-900,
-CompTIA A+,
-CompTIA Network+
+📌 Certifications: 
+● CompTIA +A
+● AWS Cloud Practitioner 
+● Microsoft Azure AZ-900
 
-👉 Portfolio: https://www.tanyalee.dev
+Additional skills: Digital Marketing, Social Media Management, Video and Podcast Producer, and Project Management.
 
-⚡ Fun fact: I enjoy reading, learning, and talking about political theories. 
+If you're looking for a skilled cybersecurity analyst who can help you harness the power of security to your business, let's connect!
 
-💬 Ask me anything. I will be more than happy to connect :D
+Portfolio: https://www.tanyalee.dev
 
 <h2 align="center"> Languages and Tools: </h2>
 
