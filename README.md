@@ -23,18 +23,6 @@ As a bilingual and versatile InfoSec (SOC and Threat Intelligence) Analyst, and 
  
 </p>
 
-
-
-<p align="center">
-<a target="_blank" href="https://www.linkedin.com/in/tanyagonzalez">
-<img src="https://img.shields.io/badge/-tanyagonzalez-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyagonzalez" alt="Linkedin Badge">
-</a>
-<a target="_blank" href="mailto:tanyaleedev@gmail.com">
-<img src="https://img.shields.io/badge/-gmail-blue?&style=for-the-badge&logo=Gmail&logoColor=white&link=maito:tanyaleedev@gmail.com" alt="Email Badge">
-</a>
-  
-</p>
-
 📌 Diplomas: 
 - Masters of International Affairs, MIA
 - Bachelor of Cybersecurity and Information Assurance, BS (in progress)
@@ -49,6 +37,3 @@ As a bilingual and versatile InfoSec (SOC and Threat Intelligence) Analyst, and 
 Additional skills: Digital Marketing, Social Media Management, Video and Podcast Producer, and Project Management.
 
 If you're looking for a skilled cybersecurity analyst who can help you harness the power of security to your business, let's connect!
-
-Portfolio: https://www.tanyalee.dev
-
